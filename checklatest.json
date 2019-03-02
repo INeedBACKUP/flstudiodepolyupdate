@@ -4,21 +4,25 @@
     "FLStudioVersionName": "FL Studio 20.1.2.887 免安装英文破解版 (修正) ",
     "Description": "FL Studio 的更新内容请参阅 WhatsNew.rtf",
     "Link": [
-        "https://drive.google.com/open?id=1Xs3sDxTmSwRWHP3sfbyWRAEEpEG6W0VM",
-        "https://1drv.ms/u/s!AqJDCzhI3LndjhyOHcSqj9uupgnc",
-        "http://yamatoryou.hopto.org:5000/sharing/lBjm1Zavz",
-        "https://dl.fuckcjmarketing.com:5001/sharing/lBjm1Zavz"
-    ],
-    "LinkDescription": [
-        "谷歌网盘",
-        "微软网盘",
-        "私有云 #1",
-        "私有云 #2"
-    ],
-    "LinkID": [
-        511,
-        512,
-        513,
-        514
+        {
+            "ID": 511,
+            "Link": "https://drive.google.com/open?id=1Xs3sDxTmSwRWHP3sfbyWRAEEpEG6W0VM",
+            "Description": "谷歌网盘"
+        },
+        {
+            "ID": 512,
+            "Link": "https://1drv.ms/u/s!AqJDCzhI3LndjhyOHcSqj9uupgnc",
+            "Description": "微软网盘"
+        },
+        {
+            "ID": 513,
+            "Link": "http://yamatoryou.hopto.org:5000/sharing/lBjm1Zavz",
+            "Description": "私有云 #1"
+        },
+        {
+            "ID": 514,
+            "Link": "https://dl.fuckcjmarketing.com:5001/sharing/lBjm1Zavz",
+            "Description": "私有云 #2"
+        }
     ]
 }
